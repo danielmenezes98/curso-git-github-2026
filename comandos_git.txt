@@ -2,7 +2,7 @@ git init . -> cria um repositório na pasta atual
 
 git status -> mostra o status do trabalho (de cada arquivo)
 
-git add nome_arquivo -> adiciona arquivo para ser comitado
+git add  <nome_arquivo> -> adiciona arquivo para ser comitado
 
 git commit -m "msg" -> faz commit do que estava para ser commitado
 
@@ -20,3 +20,5 @@ git log    -> mostra todo o histórico de comit
 7. git commit -m "mensagem"
 8. git status
 9. volta para o passo 3
+
+Teste git
