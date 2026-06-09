@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 Este arquivo contém comandos secundários de git:
 
  - Primeiro comando
  - Segundo comando
+=======
+Este arquivo contém comandos secundários de git
+
+- Primeiro comando
+- Segundo comando
+
+# Comandos mais genéricos
+- Comandos estranhos
+
+# Mais comandos
+
+sfoubsfbsusddbs
+sjosbv
+ssdf
+>>>>>>> secundaria
